@@ -1,2 +1,2 @@
 #!/bin/bash
-echo " ">up_to_date
+touch up_to_date
